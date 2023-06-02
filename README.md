@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-* This webpage can be used to be educated on the accessibility and importance of SEO on websites. See link to webpage below.
+* This webpage can be used to be educated on the accessibility and importance of SEO on websites. See link to deployed webpage below.
 
 * Link: file:///Users/candacegostinski/Desktop/Challenges/Challenge_1/index.html#search-engine-optimization
 
