@@ -26,7 +26,7 @@ THEN I find a concise, descriptive title
 
 * This webpage can be used to be educated on the accessibility and importance of SEO on websites. See link to deployed webpage below.
 
-* Link: file:///Users/candacegostinski/Desktop/Challenges/Challenge_1/index.html#search-engine-optimization
+* Link: https://candaceg00.github.io/Challenge_1/
 
 * Screenshots:
     <img src="./assets/images/horiseon1-screenshot.png"/>
