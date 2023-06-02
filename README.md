@@ -20,4 +20,17 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
+
+## Usage
+
+* This webpage can be used to be educated on the accessibility and importance of SEO on websites. See link to webpage below.
+
+* Link: file:///Users/candacegostinski/Desktop/Challenges/Challenge_1/index.html#search-engine-optimization
+
+* Screenshots:
+    <img src="./assets/images/horiseon1-screenshot.png"/>
+    <img src="./assets/images/horiseon2-screenshot.png"/>
+    <img src="./assets/images/horiseon3-screenshot.png"/>
+
 
